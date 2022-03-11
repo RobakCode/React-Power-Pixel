@@ -1,6 +1,6 @@
 import { RouteConfig, RouteValue, createRouting } from "@finalapp/react-safe-router";
-import { Page404 } from "components/Page404";
-import { PageHome } from "components/PageHome";
+import { Page404 } from "Page404";
+import { PageHome } from "PageHome";
 
 type BasePaths = {
   HOME: RouteValue;
