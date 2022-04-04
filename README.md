@@ -1,6 +1,8 @@
 # React project template
 
-> Description - Please, fill me in!
+> Why?
+
+Project to develop React skills
 
 ---
 
@@ -41,23 +43,4 @@ Additional commands:
 - `yarn lint:fix` - fix auto fixable errors and warnings
 - `yarn prettier:fix` - fix prettier formatting
 
-> Please, fill me in! configure your IDE to work with prettier, eslint and typescript format code on save
-
 ---
-
-## Practices
-
-- **AVOID `any` in TS!!!**
-- adding new dependencies should be discussed with the team
-
----
-
-## Keep in mind
-
-- **PWA!!!** - in order to service worker be refreshed when you deploy next version of an app - bump version inside `package.json` file
-
----
-
-## Modules
-
-> Please, fill me in!
