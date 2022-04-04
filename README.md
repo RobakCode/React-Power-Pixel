@@ -4,12 +4,6 @@
 
 ---
 
-## Main dependencies
-
-> Please, fill me in!
-
----
-
 ## I'm starting out. What to do?
 
 - install (nvm)[https://github.com/nvm-sh/nvm] or (fnm)[https://github.com/Schniz/fnm]
