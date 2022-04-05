@@ -27,7 +27,7 @@ export const LayoutDashboard: React.FC = ({ children }) => {
           <TextH3 tw="mt-16 mb-2">main</TextH3>
           <Navigation>
             <NavigationItem route={"HOME"} Icon={BiClipboard} title="Dashboard" />
-            <NavigationItem route={"HOME"} Icon={BiCalendar} title="Orders" />
+            <NavigationItem route={"ORDERS"} Icon={BiCalendar} title="Orders" />
             <NavigationItem route={"HOME"} Icon={BiBarChartSquare} title="Analitisc" />
             <NavigationItem route={"HOME"} Icon={BiCategory} title="Categories" />
             <NavigationItem route={"HOME"} Icon={BiCollection} title="Collections" />
